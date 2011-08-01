@@ -1,0 +1,31 @@
+#Instalar modo grafico:
+sudo apt-get install xorg xserver-xorg-core
+
+#configurar o teclado no X
+setxkbmap br
+
+# synaptic
+sudo apt-get install synaptic
+
+#procurar o servidor mais rápido
+
+
+#instalar xmonad
+sudo apt-get install xmonad
+
+#instalar o launcher
+sudo apt-get install suckless-tools
+
+#criar o .xinitrc
+
+# terminal
+sudo apt-get install gnome-terminal
+
+# browsers 
+sudo apt-get install lynx chromium-browser
+
+#tray 
+sudo apt-get install tint2 
+
+#.config/tinte
+
